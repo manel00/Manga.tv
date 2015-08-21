@@ -1,5 +1,6 @@
 # Manga.tv
-Application who lets you watch some "ANIME SERIES" within reach, easy to play, easy to follow.
+
+Application who lets you watch some "ANIME SERIES" at your fingertips! easy to play, easy to follow.
 
 It's my first try to do an important application for me, it would be a pleasure to do it with some help about implanting webview-video on html5 knowledge. 
 
